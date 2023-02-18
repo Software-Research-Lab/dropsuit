@@ -12,52 +12,52 @@
 
 ### Data Cleaning:
 
-- [clnstr](https://github.com/ladooniani/dropsuit/tree/main/clnstr#readme): Removes marks and converts a string to lowercase.
-- [clnarr](https://github.com/ladooniani/dropsuit/tree/main/clnarr#readme): Removes duplicates, empty elements, and extra punctuation marks from an array.
+- [clnstr](https://www.npmjs.com/package/dropsuit-clnstr): Removes marks and converts a string to lowercase.
+- [clnarr](https://www.npmjs.com/package/dropsuit-clnarr): Removes duplicates, empty elements, and extra punctuation marks from an array.
 
 ### Intent Recognition and Processing:
 
-- [qaio](https://github.com/ladooniani/dropsuit/tree/main/qaio#readme): Recognizes intents by analyzing nouns or all words with higher value.
-- [dersnt](https://github.com/ladooniani/dropsuit/tree/main/dersnt#readme): Searches for derivative sentences and nouns.
-- [dnkscr](https://github.com/ladooniani/dropsuit/tree/main/dnkscr#readme): Counts the score of direct and derivative noun keys.
+- [qaio](https://www.npmjs.com/package/dropsuit-qaio): Recognizes intents by analyzing nouns or all words with higher value.
+- [dersnt](https://www.npmjs.com/package/dropsuit-dersnt): Searches for derivative sentences and nouns.
+- [dnkscr](https://www.npmjs.com/package/dropsuit-dnkscr): Counts the score of direct and derivative noun keys.
 
 ### Text Searching:
 
-- [strsrch](https://github.com/ladooniani/dropsuit/tree/main/strsrch#readme): Searches for a string or substring, with the option of inverse content matching.
+- [strsrch](https://www.npmjs.com/package/dropsuit-strsrch): Searches for a string or substring, with the option of inverse content matching.
 
 ### Text Filtering:
 
-- [enoun](https://github.com/ladooniani/dropsuit/tree/main/enoun#readme): Filters text to only include English nouns.
+- [enoun](https://www.npmjs.com/package/dropsuit-enoun): Filters text to only include English nouns.
 
 ### Text Tokenizing:
 
-- [tok](https://github.com/ladooniani/dropsuit/tree/main/tok#readme): Tokenizes text.
+- [tok](https://www.npmjs.com/package/dropsuit-tok): Tokenizes text.
 
 ### Text Stemming:
 
-- [stem](https://github.com/ladooniani/dropsuit/tree/main/stem#readme): Stems words from a string or array.
+- [stem](https://www.npmjs.com/package/dropsuit-stem): Stems words from a string or array.
 
 ### Text Analysis:
 
-- [bow](https://github.com/ladooniani/dropsuit/tree/main/bow#readme): Generates a bag of words from input and data structure requests.
-- [bowtag](https://github.com/ladooniani/dropsuit/tree/main/bowtag#readme): Generates a bag of words from input and data structure intent tags.
+- [bow](https://www.npmjs.com/package/dropsuit-bow): Generates a bag of words from input and data structure requests.
+- [bowtag](https://www.npmjs.com/package/dropsuit-bowtag): Generates a bag of words from input and data structure intent tags.
 
 ### Text N-gram Generation:
 
-- [ngram](https://github.com/ladooniani/dropsuit/tree/main/ngram#readme): Generates N-grams from input string.
+- [ngram](https://www.npmjs.com/package/dropsuit-ngram): Generates N-grams from input string.
 
-
+<!-- 
 ## Dialogflow Integration
 
 ### Dialogflow Logic:
 
-- [diaflogic](https://github.com/ladooniani/dropsuit/tree/main/diaflogic#readme): Builds the Dialogflow logic scenario.
-
+- [diaflogic](https://www.npmjs.com/package/dropsuit-diaflogic): Builds the Dialogflow logic scenario.
+-->
 ## Data Manipulation Tools
 
 ### Data Transformation:
 
-- [dtstruc](https://github.com/ladooniani/dropsuit/tree/main/dtstruc#readme): Restructures input data into different data structures.
+- [dtstruc](https://www.npmjs.com/package/dropsuit-dtstruc): Restructures input data into different data structures.
 
 <br>
 <br>

@@ -1,0 +1,39 @@
+[submodule "dropsuit-clnstr"]
+	path = dropsuit-clnstr
+	url = https://github.com/ladooniani/dropsuit-clnstr
+[submodule "dropsuit-tok"]
+	path = dropsuit-tok
+	url = https://github.com/ladooniani/dropsuit-tok
+[submodule "dropsuit-strsrch"]
+	path = dropsuit-strsrch
+	url = https://github.com/ladooniani/dropsuit-strsrch
+[submodule "dropsuit-stem"]
+	path = dropsuit-stem
+	url = https://github.com/ladooniani/dropsuit-stem
+[submodule "dropsuit-qaio"]
+	path = dropsuit-qaio
+	url = https://github.com/ladooniani/dropsuit-qaio
+[submodule "dropsuit-ngram"]
+	path = dropsuit-ngram
+	url = https://github.com/ladooniani/dropsuit-ngram
+[submodule "dropsuit-enoun"]
+	path = dropsuit-enoun
+	url = https://github.com/ladooniani/dropsuit-enoun
+[submodule "dropsuit-dtstruc"]
+	path = dropsuit-dtstruc
+	url = https://github.com/ladooniani/dropsuit-dtstruc
+[submodule "dropsuit-dnkscr"]
+	path = dropsuit-dnkscr
+	url = https://github.com/ladooniani/dropsuit-dnkscr
+[submodule "dropsuit-dersnt"]
+	path = dropsuit-dersnt
+	url = https://github.com/ladooniani/dropsuit-dersnt
+[submodule "dropsuit-bow"]
+	path = dropsuit-bow
+	url = https://github.com/ladooniani/dropsuit-bow
+[submodule "dropsuit-clnarr"]
+	path = dropsuit-clnarr
+	url = https://github.com/ladooniani/dropsuit-clnarr
+[submodule "dropsuit-bowtag"]
+	path = dropsuit-bowtag
+	url = https://github.com/ladooniani/dropsuit-bowtag

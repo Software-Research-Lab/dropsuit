@@ -1,10 +1,13 @@
 [<img alt="TAI Lab." width="59px" src="https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png" />](https://github.com/ladooniani/dropsuit#readme)
-
+<!--
 # [**DropSuit**](https://www.npmjs.com/~ladooniani)
+ -->
+
+ **DropSuit** 
 
 # Overview of DropSuit Library
 
-[**DropSuit**](https://www.npmjs.com/~ladooniani) is a JavaScript(ES6) and Node.js(v14.x) module library with independent packages created by Lado Oniani that offers a diverse collection of functions for natural language processing (NLP) and data manipulation. It provides a curated collection of original and classic techniques and methods for tasks such as text analysis, language understanding and generation, as well as for data manipulation tasks. Additionally, it includes unique tools and features for chatbot dialog flow logic and other specific use cases. The library is open-source and available under the Apache License 2.0. Whether you're a researcher, developer, or data scientist, DropSuit offers a range of tools to enhance your work, with a focus on diversity and experimentation.
+**DropSuit** is a JavaScript(ES6) and Node.js(v14.x) module library with independent packages created by Lado Oniani that offers a diverse collection of functions for natural language processing (NLP) and data manipulation. It provides a curated collection of original and classic techniques and methods for tasks such as text analysis, language understanding and generation, as well as for data manipulation tasks. Additionally, it includes unique tools and features for chatbot dialog flow logic and other specific use cases. The library is open-source and available under the Apache License 2.0. Whether you're a researcher, developer, or data scientist, DropSuit offers a range of tools to enhance your work, with a focus on diversity and experimentation.
 
 # DropSuit Library
 

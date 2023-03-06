@@ -47,7 +47,7 @@
 
 ### Text N-gram Generation:
 
-- [ngram]([https://github.com/ladooniani/dropsuit-ngram): Generates N-grams from input string.
+- [ngram](https://github.com/ladooniani/dropsuit-ngram): Generates N-grams from input string.
 
 <!-- 
 ## Dialogflow Integration

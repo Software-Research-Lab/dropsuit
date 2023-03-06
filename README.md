@@ -40,7 +40,10 @@
 ### Text Analysis:
 
 - [bow](https://www.npmjs.com/package/dropsuit-bow): Generates a bag of words from input and data structure requests.
-- [bowtag](https://www.npmjs.com/package/dropsuit-bowtag): Generates a bag of words from input and data structure intent tags.
+
+### Text Formatting 
+
+- [decor](https://www.npmjs.com/package/dropsuit-decor): Formats and stylizes text strings.
 
 ### Text N-gram Generation:
 

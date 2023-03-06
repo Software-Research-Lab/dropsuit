@@ -12,55 +12,55 @@
 
 ### Data Cleaning:
 
-- [clnstr](https://www.npmjs.com/package/dropsuit-clnstr): Removes marks and converts a string to lowercase.
-- [clnarr](https://www.npmjs.com/package/dropsuit-clnarr): Removes duplicates, empty elements, and extra punctuation marks from an array.
-
+- [clnstr](https://github.com/ladooniani/dropsuit-clnstr): Removes marks and converts a string to lowercase.
+- [clnarr](https://github.com/ladooniani/dropsuit-clnarr): Removes duplicates, empty elements, and extra punctuation marks from an array.
+ 
 ### Intent Recognition and Processing:
 
-- [qaio](https://www.npmjs.com/package/dropsuit-qaio): Recognizes intents by analyzing nouns or all words with higher value.
-- [dersnt](https://www.npmjs.com/package/dropsuit-dersnt): Searches for derivative sentences and nouns.
-- [dnkscr](https://www.npmjs.com/package/dropsuit-dnkscr): Counts the score of direct and derivative noun keys.
+- [qaio](https://github.com/ladooniani/dropsuit-qaio): Recognizes intents by analyzing nouns or all words with higher value.
+- [dersnt](https://github.com/ladoonianidropsuit-dersnt): Searches for derivative sentences and nouns.
+- [dnkscr](https://github.com/ladooniani/dropsuit-dnkscr): Counts the score of direct and derivative noun keys.
 
 ### Text Searching:
 
-- [strsrch](https://www.npmjs.com/package/dropsuit-strsrch): Searches for a string or substring, with the option of inverse content matching.
+- [strsrch](https://github.com/ladooniani/dropsuit-strsrch): Searches for a string or substring, with the option of inverse content matching.
 
 ### Text Filtering:
 
-- [enoun](https://www.npmjs.com/package/dropsuit-enoun): Filters text to only include English nouns.
+- [enoun](https://github.com/ladooniani/dropsuit-enoun): Filters text to only include English nouns.
 
 ### Text Tokenizing:
 
-- [tok](https://www.npmjs.com/package/dropsuit-tok): Tokenizes text.
+- [tok](https://github.com/ladooniani/dropsuit-tok): Tokenizes text.
 
 ### Text Stemming:
 
-- [stem](https://www.npmjs.com/package/dropsuit-stem): Stems words from a string or array.
+- [stem](https://github.com/ladooniani/dropsuit-stem): Stems words from a string or array.
 
 ### Text Analysis:
 
-- [bow](https://www.npmjs.com/package/dropsuit-bow): Generates a bag of words from input and data structure requests.
+- [bow](https://github.com/ladooniani/dropsuit-bow): Generates a bag of words from input and data structure requests.
 
 ### Text Formatting 
 
-- [decor](https://www.npmjs.com/package/dropsuit-decor): Formats and stylizes text strings.
+- [decor](https://github.com/ladooniani/dropsuit-decor): Formats and stylizes text strings.
 
 ### Text N-gram Generation:
 
-- [ngram](https://www.npmjs.com/package/dropsuit-ngram): Generates N-grams from input string.
+- [ngram]([https://github.com/ladooniani/dropsuit-ngram): Generates N-grams from input string.
 
 <!-- 
 ## Dialogflow Integration
 
 ### Dialogflow Logic:
 
-- [diaflogic](https://www.npmjs.com/package/dropsuit-diaflogic): Builds the Dialogflow logic scenario.
+- [diaflogic](https://github.com/ladooniani/dropsuit-diaflogic): Builds the Dialogflow logic scenario.
 -->
 ## Data Manipulation Tools
 
 ### Data Transformation:
 
-- [dtstruc](https://www.npmjs.com/package/dropsuit-dtstruc): Restructures input data into different data structures.
+- [dtstruc](https://github.com/ladooniani/dropsuit-dtstruc): Restructures input data into different data structures.
 
 <br>
 <br>

@@ -64,7 +64,8 @@
 ### Data Transformation:
 
 - [dtstruc](https://github.com/ladooniani/dropsuit-dtstruc): Restructures input data into different data structures.
-
+- [dtstruc](https://github.com/ladooniani/dropsuit-databuild): This class provides a method for building a string prompt based on the input data.
+- 
 <br>
 <br>
 

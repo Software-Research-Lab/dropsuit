@@ -21,7 +21,7 @@
 ### Intent Recognition and Processing:
 
 - [qaio](https://github.com/ladooniani/dropsuit-qaio): Recognizes intents by analyzing nouns or all words with higher value.
-- [dersnt](https://github.com/ladoonianidropsuit-dersnt): Searches for derivative sentences and nouns.
+- [dersnt](https://github.com/ladooniani/dropsuit-dersnt): Searches for derivative sentences and nouns.
 - [dnkscr](https://github.com/ladooniani/dropsuit-dnkscr): Counts the score of direct and derivative noun keys.
 
 ### Text Searching:

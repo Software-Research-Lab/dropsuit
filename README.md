@@ -52,13 +52,13 @@
 
 - [ngram](https://github.com/ladooniani/dropsuit-ngram): Generates N-grams from input string.
 
-<!-- 
+ 
 ## Dialogflow Integration
 
 ### Dialogflow Logic:
 
 - [diaflogic](https://github.com/ladooniani/dropsuit-diaflogic): Builds the Dialogflow logic scenario.
--->
+ 
 ## Data Manipulation Tools
 
 ### Data Transformation:
